@@ -1,6 +1,10 @@
-## Your Name
+## Iain Aitken
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A sentence about who and what you are. 
+
+Then a sentence about what you've achieved. 
+
+And then a sentence about what excites you about tech.
 
 ## Projects
 
@@ -9,56 +13,103 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication
 
-#### This Skill
+Clear communication has been a core part of my career to date. 
 
-- Experience
-- Achievements
-- Evidence
+- Client-facing roles
+- Written communication
+- Public speaking, through delivering seminars, training sessions and presentations, and participating in client-facing panel discussions.
 
-#### Another Skill
+#### Attention to Detail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Drafting legal documents
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Self-learning
+
+- 
+
+#### Project Management
+
+- Managing complex, high-value client transactions
+
+#### Analysis
+
+- 
+
+#### Teamwork and Leadership
+
+- 
+
+#### Marketing
+
+- Networking
+- writing articles
+
+## Legal Career
+
+### Timeline
+
+**Trowers & Hamlins LLP** (March 2017 to August 2020)  
+_Senior Associate_
+
+**Veale Wasbrough Vizards** (May 2016 to February 2017)  
+_Senior Associate_
+
+**Bolt Burdon** (February 2011 to May 2016)  
+_Associate_
+
+**Stapletons Solicitors** (April 2007 to February 2011)  
+_Assistant Solicitor_
+
+### Key Achievements
+
+- Improved training and progression for Paralegals, Trainee Solicitors and NQs at Trowers & Hamlins through the implementation of a department-wide training course on relevant legal topics.
+
+- Improved the acquisition of, and dissemination of know-how between, fee-earners at Trowers & Hamlins by implementing, co-ordinating and chairing weekly department knowledge meetings. 
+
+- Increasing efficiency, profitability and consistency of approach by developing precedent banks at every firm I have worked at. This included working with in-house case management developers to create will-writing software.
+
+- Single-handedly reforming and improving the private client offering at Stapletons Solicitors, leading to a 175% increase in fees received per year. This required a complete overhaul of the department, looking at risk management, internal know-how, introducing new work areas, marketing, cross-selling, building a network of referrers and implementing new software solutions.
+
+- Bringing in important clients at various firms, including many HNW individuals for succession planning work and a London Local Authority for repeat business connected to non-ayment of care fees.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2021 to April 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Became a full member of the Society of Trust and Estate Practitioners (April 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- STEP Diploma in Trusts and Estates
 
-#### Any other qualifications
+#### Admitted as a Solicitor in England and Wales (April 2009)
 
-That in some arguable way make you a better software developer or well-rounded person
+#### The College of Law, York (September 2004 to June 2005)
+
+- Post-Graduate Diploma in Legal Practice (__Distinction__)
+
+#### The Society for Environmental Exploration (October 2002 to April 2003)
+
+- BTEC Advanced Diploma in Tropical Habitat Conservation 
+
+#### University of Manchester (September 1999 to June 2002)
+
+- LL.B (Hons.) Law (__2:1 Classification__)
+
+#### Whickham School, Newcastle upon Tyne
+
+- 3 A-levels at __A__ grade, including Physics. 10 GCSEs at __A*/A__ grade, including 2 Maths GCSEs (Maths and Statistics, both at __A*__ grade).
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Photography
+- Travel
+- Reading
+- Fitness training
