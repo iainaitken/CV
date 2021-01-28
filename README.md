@@ -13,6 +13,8 @@ And then a sentence about what excites you about tech.
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
+All of my work to date can be found on my [GitHub profile](https://github.com/iainaitken).
+
 ## Skills
 
 #### Communication
@@ -25,15 +27,21 @@ Clear communication has been a core part of my career to date.
 
 #### Attention to Detail
 
-- Drafting legal documents
+In my legal career I have spent couuntless hours drafting and reviewing complex legal documents, where attention to detail is vital. 
 
 #### Self-learning
 
-- 
+I am highly motivated to learn new skills. Early in my career I single-handedly reformed and improved the private client offering at Stapletons Solicitors, leading to a 175% increase in fees received per annum. This required a complete overhaul of the department, learning about and implementing:
+
+- Risk management.
+- Internal know-how.
+- Introducing new work areas.
+- Marketing, including cross-selling within the firm, and building a network of referrers. 
+- New software solutions such as an MS Access database to track client documents.
 
 #### Project Management
 
-- Managing complex, high-value client transactions
+In my role at Trowers & Hamlins I was responsible for managing complex, high-value client transactions involving the "de-enveloping" of UK property owned by offshore companies. This work would inolve co-ordinating the work of a number of other professionals whilst ensuring the 
 
 #### Analysis
 
@@ -84,6 +92,8 @@ _Assistant Solicitor_
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+
+#### Harvard CS50 Intorduction to Computer Science Course via edX (September 2020 to January 2021)
 
 #### Became a full member of the Society of Trust and Estate Practitioners (April 2013)
 
