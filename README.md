@@ -1,6 +1,6 @@
 ## Iain Aitken
 
-[Projects](#projects) | Skills | Career | Education | Interests
+[Projects](#projects) | [Skills](#skills) | [Career](#career) | [Education](#education) | [Interests](#interests)
 
 ---
 
