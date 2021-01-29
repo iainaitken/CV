@@ -2,6 +2,8 @@
 
 Projects | Skills | Career | Education | Interests
 
+---
+
 A full-stack junior developer and a personable team player.
 
 I have recently graduated from a 12-week software development bootcamp at Makers Academy, having previously been a solicitor for over 13 years.
