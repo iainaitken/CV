@@ -12,7 +12,7 @@ I have recently graduated from a 12-week software development bootcamp at Makers
 
 I love working on software projects; there's no greater satisfaction than being able to contribute to developing a system that works and which makes someone's life that bit easier. I take pride in my work and, as a professional, I strive to ensure that my code is clean, readable, easy to maintain and reusable. I am looking for a job where I can hone my coding skills, learn as much as possible and quickly progress my career.
 
-My blog can be found here.
+My blog can be found [here](https://iain-aitken.medium.com/).
 
 ## Projects
 
