@@ -8,7 +8,7 @@
 
 A full-stack junior developer and a personable team player.
 
-I have recently graduated from a 12-week software development bootcamp at Makers Academy, having previously been a solicitor for over 13 years.
+I will graduate from a 12-week software development bootcamp at Makers Academy on 23 April 2021, having previously been a solicitor for over 13 years.
 
 I love working on software projects; there's no greater satisfaction than being able to contribute to developing a system that works and which makes someone's life that bit easier. I take pride in my work and, as a professional, I strive to ensure that my code is clean, readable, easy to maintain and reusable. I am looking for a job where I can hone my coding skills, learn as much as possible and quickly progress my career.
 
@@ -18,8 +18,12 @@ My blog can be found [here](https://iain-aitken.medium.com/).
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| _Working on final project at the moment_         | An app to remind you of fun things to do to make you happy  | MongoDB, Express, React, Node |
+| [Notes App](https://github.com/iainaitken/notes) | A front-end only webapp for keeping notes  | Javascript              |
+| [Makers BnB](https://github.com/jshorns/makers-bnb) | An AirBnB clone | Ruby, Sinatra, PostgreSQL |
+| [Bank Tech Test](https://github.com/iainaitken/bank-tech-test) | A mock tech test, checking our coding ability and code quality | Ruby |
+
+Our final project presentation is due to be held on 23 April; you can sign up to the event [here](https://www.eventbrite.co.uk/e/demo-day-and-qa-tickets-148569203487).
 
 All of my work to date can be found on my [GitHub profile](https://github.com/iainaitken).
 
@@ -102,10 +106,12 @@ _Assistant Solicitor_
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript, Node, React
+- Rails, Sinatra, Express
+- RSpec, Jasmine, Capybara
+- MongoDB, PostgreSQL
 
-#### Harvard CS50 Introduction to Computer Science Course via edX (September 2020 to January 2021)
+#### Harvard CS50 Introduction to Computer Science Course via edX (September 2020 to May 2021)
 
 #### Became a full member of the Society of Trust and Estate Practitioners (April 2013)
 
