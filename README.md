@@ -6,24 +6,24 @@
 
 ## About me
 
-A full-stack junior developer and a personable team player.
+A full-stack software developer and a personable team player.
 
-I will graduate from a 12-week software development bootcamp at Makers Academy on 23 April 2021, having previously been a solicitor for over 13 years.
+I graduated from a 12-week software development bootcamp at Makers Academy on 23 April 2021, having previously been a solicitor for over 13 years.
 
 I love working on software projects; there's no greater satisfaction than being able to contribute to developing a system that works and which makes someone's life that bit easier. I take pride in my work and, as a professional, I strive to ensure that my code is clean, readable, easy to maintain and reusable. I am looking for a job where I can hone my coding skills, learn as much as possible and quickly progress my career.
 
-My blog can be found [here](https://iain-aitken.medium.com/).
+My blog can be found [here](https://iain-aitken.medium.com/), and feel free to look at my [LinkedIn profile](https://www.linkedin.com/in/iain-aitken-tep-27b79a14/).
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| _Working on final project at the moment_         | An app to remind you of fun things to do to make you happy  | MongoDB, Express, React, Node |
+| [H-Appy]      | An app to remind you of fun things to do to make you happy  | MongoDB, Express, React, Node |
 | [Notes App](https://github.com/iainaitken/notes) | A front-end only webapp for keeping notes  | Javascript              |
 | [Makers BnB](https://github.com/jshorns/makers-bnb) | An AirBnB clone | Ruby, Sinatra, PostgreSQL |
 | [Bank Tech Test](https://github.com/iainaitken/bank-tech-test) | A mock tech test, checking our coding ability and code quality | Ruby |
 
-Our final project presentation is due to be held on 23 April; you can sign up to the event [here](https://www.eventbrite.co.uk/e/demo-day-and-qa-tickets-148569203487).
+[Link to recording of presentation]
 
 All of my work to date can be found on my [GitHub profile](https://github.com/iainaitken).
 
