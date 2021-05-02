@@ -72,7 +72,7 @@ I would regularly be required to analyse data and fact patterns.  This might for
 Working with others is evidenced by:
 
 - I have managed teams of solicitors and legal assistants.
-- Acted as mentor to more junior members of the team.
+- As a solicitor, I acted as mentor to more junior members of the team. During Makers, I volunteered to be a mentor for two fellow students who were in a later cohort.
 - Improved training and progression for junior team members through the implementation of a department-wide training course on relevant legal topics.
 - Improved the acquisition of, and dissemination of know-how between, fee-earners by implementing, co-ordinating and chairing weekly department knowledge meetings. 
 
