@@ -22,7 +22,7 @@ My blog can be found [here](https://iain-aitken.medium.com/), and feel free to l
 | ---------------------------- | ----------------- | ----------------- |
 | [H-Appy](https://github.com/iainaitken/H-Appy_Client)     | An app to remind you of fun things to do to make you happy. Consists of a front-end app and a separate back-end database and API. Our final project video presentation can be found [here](https://youtu.be/gjrnrz5M-wA?t=638).  | MongoDB, Express, React, Node |
 | [Notes App](https://github.com/iainaitken/notes) | A front-end JavaScript-only webapp for keeping notes, with custom testing framework. Hosted on [GitHub Pages](https://iainaitken.github.io/notes-app/). | Javascript              |
-| [Makers BnB](https://github.com/jshorns/makers-bnb) | An AirBnB clone | Ruby, Sinatra, PostgreSQL |
+| [Makers BnB](https://github.com/jshorns/makers-bnb) | A group project to create an AirBnB clone using a TDD approach. | Ruby, Sinatra, PostgreSQL |
 | [Bank Tech Test](https://github.com/iainaitken/bank-tech-test) | A mock tech test, checking our coding ability and code quality. A program that runs in a REPL, replicating some of the functions in banking software. | Ruby |
 
 All of my work to date can be found on my [GitHub profile](https://github.com/iainaitken).
