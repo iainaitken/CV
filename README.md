@@ -85,6 +85,9 @@ Throughout my career, I have worked collaboratively and have taken up leadership
 
 ### Timeline
 
+**Fieldfisher LLP** (June 2021 to present)
+_Consultant_
+
 **Trowers & Hamlins LLP** (March 2017 to August 2020)  
 _Senior Associate_
 
